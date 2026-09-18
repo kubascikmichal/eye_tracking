@@ -1,0 +1,5 @@
+# Runtime dependencies for Eye-Tracking_EEG
+numpy
+pygame
+pylsl
+Pillow
